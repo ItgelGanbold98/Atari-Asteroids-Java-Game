@@ -1,9 +1,18 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 # Atari-Asteroids-Java-Game :alien: :astronaut:
 
 This is a recreation of the 1979 classic Atari Asteroids game :new_moon: using Java and its library JavaFX. 
 The game is altered slightly from the original in terms of gameplay mechanics and aesthetic design choices.
+
+# Personal Contributions
+
+This is a collaborative project that involved 5 people. My role included:
+  -  Project leading
+  -  Coding the base game loop and many of the logic
+  -  Designing the menu aesthetic
+I was voted by the group as the person who contributed the most 😃
+    
 
 ## Game Design
 
@@ -25,4 +34,4 @@ Other unique game mechanics include Hyper-jump. This allows the player to get ou
 However, it should be used sparingly as only one HJ is allowed per round. The game difficulty is exponential as the no. of asteroids roughly scale as
 $2^n$, where $n$ is the round number.
 
-This was a collaborative effort and many thanks to my project partners, who helped to make this game come to life!
+
