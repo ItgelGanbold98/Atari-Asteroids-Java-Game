@@ -1,4 +1,5 @@
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=git,java,idea&perline=14)](https://github.com/ItgelGanbold98)
 
 # Atari-Asteroids-Java-Game :alien: :astronaut:
 
